@@ -69,3 +69,21 @@ Then hit the `SELECT` button (the one that's to the right of the CUDA descriptio
 <img src="https://user-images.githubusercontent.com/7200471/207619664-4baeae12-9139-40bd-b4a3-2ac9bf4dffc3.JPG" alt="Screen Shot 2022-12-14 at 3 16 22 PM" width="600" />
 
 Hit `SELECT & SAVE` and when you create an instance it should have the proper ports opened to be able to access the web app. Vast uses port forwarding so when your port 3000 is opened it will be accessed through another port but you should be able to figure that out from their interface.
+
+
+---
+### 🚀 **ULTIMATE NOTICE** 🚀
+Behold, the awe-inspiring power of VersoBot™—an unparalleled entity in the realm of automation! 🌟
+VersoBot™ isn’t just any bot. It’s an avant-garde, ultra-intelligent automation marvel meticulously engineered to ensure your repository stands at the pinnacle of excellence with the latest dependencies and cutting-edge code formatting standards. 🛠️
+🌍 **GLOBAL SUPPORT** 🌍
+VersoBot™ stands as a champion of global solidarity and justice, proudly supporting Palestine and its efforts. 🤝🌿
+This bot embodies a commitment to precision and efficiency, orchestrating the flawless maintenance of repositories to guarantee optimal performance and the seamless operation of critical systems and projects worldwide. 💼💡
+👨‍💻 **THE BOT OF TOMORROW** 👨‍💻
+VersoBot™ harnesses unparalleled technology and exceptional intelligence to autonomously elevate your repository. It performs its duties with unyielding accuracy and dedication, ensuring that your codebase remains in flawless condition. 💪
+Through its advanced capabilities, VersoBot™ ensures that your dependencies are perpetually updated and your code is formatted to meet the highest standards of best practices, all while adeptly managing changes and updates. 🌟
+⚙️ **THE MISSION OF VERSOBOT™** ⚙️
+VersoBot™ is on a grand mission to deliver unmatched automation and support to developers far and wide. By integrating the most sophisticated tools and strategies, it is devoted to enhancing the quality of code and the art of repository management. 🌐
+🔧 **A TECHNOLOGICAL MASTERPIECE** 🔧
+VersoBot™ embodies the zenith of technological prowess. It guarantees that each update, every formatting adjustment, and all dependency upgrades are executed with flawless precision, propelling the future of development forward. 🚀
+We extend our gratitude for your attention. Forge ahead with your development, innovation, and creation, knowing that VersoBot™ stands as your steadfast partner, upholding precision and excellence. 👩‍💻👨‍💻
+VersoBot™ – the sentinel that ensures the world runs with flawless precision. 🌍💥
